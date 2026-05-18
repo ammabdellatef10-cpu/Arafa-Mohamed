@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in Software Engineering & Backend Development.
 - 💞️ I’m looking to collaborate on Node.js, Express.js, and Database Architecture.
-- 📫 How to reach me? **[ammabdellatef10@gmail.com]**
-- 💻 My LinkedIn: **[https://www.linkedin.com/in/yourlinkedinprofile]**
+- 📫 How to reach me? **ammabdellatef10@gmail.com**
+- 💻 My LinkedIn: https://www.linkedin.com/in/yourlinkedinprofile
 
 <br/>
 
@@ -30,5 +30,3 @@
 
 # 🚀 Current Projects & Focus
 * 🛠️ **Task Management System**: Building a professional backend application with secure database relations.
-* 🔒 **Secure Authentication**: Integrating JWT tokens and password hashing for enterprise-level security.
-* 📡 **API Development**: Designing clean RESTful routes and testing endpoints manually with **Postman**.
