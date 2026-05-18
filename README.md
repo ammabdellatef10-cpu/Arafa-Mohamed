@@ -1,34 +1,47 @@
-### Backend Developer | Node.js & Express.js Specialist | Database Engineer
+# Hi there, I'm Mahmoud Anani! 👋
 
-Experienced in building robust APIs, handling asynchronous logic, and architecting database schemas using both SQL and NoSQL solutions.
+- 👀 I’m interested in Software Engineering
+- 💞️ I’m looking to collaborate on ReactJS, NestJS.
+- 📫 How to reach me? mahmoud.anani.g@gmail.com
+- 💻 My LinkedIn: https://www.linkedin.com/in/mahmoud-anani
+- 📹 My YouTube Channel: https://www.youtube.com/@Mahmoud_Anani
+  <br/>
+  <br/>
+<h2>GitHub Stats</h2>
 
-<table><tr><td valign="top" width="33%">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-anani&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoud-anani&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-anani&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-anani&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-anani&theme=aura_dark&utcOffset=8)
+  <br/>
+  <br/>
 
-### 🚀 Core Expertise
-* **Language:** JavaScript (ES6+)
-* **Frameworks:** Node.js & Express.js
-* **Async Logic:** Deep understanding of async/await, promises, and robust error handling.
-* **API Architecture:** Designing clean, secure, and scalable RESTful APIs.
-</td><td valign="top" width="34%">
+# 📚 Frameworks and Libraries
 
-### 🗄️ Database Management
-* **SQL Databases:**
-  * **MySQL** for relational data mapping.
-  * Expert handling via **Sequelize ORM**.
-* **NoSQL Databases:**
-  * **MongoDB** for flexible, document-based storage.
-  * Efficient structuring via **Mongoose ODM**.
-</td><td valign="top" width="33%">
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/react.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/react-native-6DA55F?style=for-the-badge&logo=react.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&badgeColor=010101"/><br/><br/>
 
-### 💡 Focus & Projects
-* **Task Management System:** Developing scalable APIs with optimized query performance.
-* **Secure Auth Service:** Implementing advanced JWT authentication and password hashing.
-* **Testing & Tools:** Postman for complete endpoint testing, Git/GitHub for manual version control.
-</td></tr></table>
+<br/>
 
----
+# 📋 Programming Languages
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedinprofile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-  <a href="https://github.com/yourgithubusername" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> 
-</p>
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/php%23-%23239120.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/vb%23-%23239120.svg?style=for-the-badge&logo=vb&logoColor=white"/>
+
+
+
+<br/>
+<br/>
+<br/>
+
+# 💾 Databases and ORM
+
+<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
