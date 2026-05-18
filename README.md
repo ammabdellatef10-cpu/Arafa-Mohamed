@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Software Engineering & Backend Development.
 - 💞️ I’m looking to collaborate on Node.js, Express.js, and Database Architecture.
-- 📫 How to reach me? [Your Email Here]
+- 📫 How to reach me? [ammabdellatef10@gmail.com]
 - 💻 My LinkedIn: https://www.linkedin.com/in/yourlinkedinprofile
   <br/>
   <br/>
